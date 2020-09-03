@@ -1,0 +1,50 @@
+Questão C:
+Linhas: 3810 Colunas: 41
+
+Questão D:
+Região: NORTE, frequência: 300
+Região: NORDESTE, frequência: 1065
+Região: CENTRO-OESTE, frequência: 285
+Região: SUDESTE, frequência: 1605
+Região: SUL, frequência: 555
+
+Questão E:
+Região mais frequente: SUDESTE,Frequência: 1605
+
+Questão F:
+Idade da pessoa mais nova: 16 Idade da pessoa mais velha: 88
+
+Questão G:
+Média de idade: 42.31784776902887
+Moda da idade: 18 Frequência: 110
+Mediana da idade: 41.0
+Assimétrica positiva
+Questão H:
+Faixa etária mais frequente: Adultos, Frequência: 1995
+
+Questão I:
+Média de renda: 1801.4782211392019
+Mediana renda: 1400
+Maior renda: 19000, menor renda: 150
+Primeiro quartil: 800 segundo quartil: 1400 terceiro quartil: 2100.0
+ A média de renda está bem próxima do valor mediano e muito distante dos valores máximos e mínimos da amostras.
+ O valor do primeiro quartil, segundo e  do terceiro indicam uma variação maior na segunda parte da amostra.
+
+Questão J:
+O primeiro quartil indica que o valor mediano dos primeiros 25% da amostra é de 800 reais. Enquanto no terceiro quartil,
+ que indica o valor mediano da parte dos 75% das amostras é de2100.0 reais. A distância interquartil
+ desses dois indica uma variação considerável da renda do primeiro quarto e o terceiro.
+
+Questão K: resposta na linha 193.
+
+Questão L:
+o coeficiente de variação de idade é menor que o de renda. Portanto, é mais homogêneo
+Coeficiente de variação da idade: 39.96547985249524% Coeficiente de variação de renda: 85.4940767923963%
+
+Questão M:
+Região: NORTE,desvio padrão:1754.5195465882948
+Região: NORDESTE,desvio padrão:1188.8687629364317
+Região: CENTRO-OESTE,desvio padrão:1338.491654941951
+Região: SUDESTE,desvio padrão:1670.05121918804
+Região: SUL,desvio padrão:1307.6704495435545
+A região com o comportamento mais homogêneo é a NORDESTE, com o desvio padrão de 1188.8687629364317
